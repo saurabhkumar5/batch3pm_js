@@ -36,4 +36,66 @@
 // let a=20
 // console.log('a')
 
-console.log('abfhh')
+// console.log('abfhh')
+
+
+
+// var a = "golu"
+// console.log(a)
+
+// let a = 123
+// console.log(a)
+
+// const a = 123
+// console.log(a)
+
+
+// var a = 10
+// var a = 20
+//     a = 30
+// var b = 40
+// console.log(b)
+
+
+// let a = 10
+//     a = 20
+//     a = 30
+// console.log(a)
+
+
+// const a = 10
+     
+// console.log(a)
+
+
+    // var a  = 10
+    // let a = 20
+    // const a = 30
+    // console.log(a)
+
+
+// {} //scope
+
+
+
+//  var a = 10
+// let a = 20
+// const a = 30
+
+   
+    {
+    //    var a = 50
+        //   let a = 60
+        //     const  a = 70
+        // console.log(a)
+    }
+
+
+
+    {
+        // var a = 10
+        // let a = 20
+        const a = 30
+        console.log(a)
+    }
+    // console.log(a)
