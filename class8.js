@@ -59,3 +59,76 @@
 
 // let str = "most welcome"
 //   console.log(str.search('t'))
+
+// 5. toLowercase()
+
+//   let a  = "MANNAT"
+//   console.log(a.toLowerCase())
+
+// let a = "neetu midha"
+// console.log(a.toUpperCase())
+
+//    console.log(a[0].toUpperCase())
+
+
+// 6. includes()
+
+// let a = "welcome"
+// console.log(a.includes('wel'+'me'))
+
+
+// let name = "neetu singh"
+
+// if(name.includes('kaur')){
+//     console.log("you can go kasoli")
+// }else{
+//     console.log("you cant go on trip")
+// }
+
+
+// 7. trim()
+
+// let a = "           n   eetu             "
+// console.log(a.trim())
+
+
+// 8.startswith()
+
+//  let a = "welcome"
+//  console.log(a.startsWith('me'))
+// console.log(a.endsWith('come'))
+
+
+// 9. charAt()
+     
+    //   let a = "neetu"
+    //   console.log(a.charAt(3))
+
+
+    // 10. split()
+
+    //    let a = "kullu manali, shimla"
+    //    console.log(a.split(','))
+
+
+    // 11. repeat()
+
+    // let a = "suman "
+    // console.log(a.repeat(5))
+
+    // 12. substring()
+
+    // let a = "welcome"
+    // // console.log(a.substring(2,5))
+    // console.log(a.substring(-4,-1))
+    // let b = a[0].toUpperCase()
+    // let c = a.substring(1)
+    // console.log(b+c)
+ 
+
+    // 13. slice()
+
+
+    //   let a = "neetu"
+    //   console.log(a.slice(1,3))
+    //   console.log(a.slice(-4,-1))
