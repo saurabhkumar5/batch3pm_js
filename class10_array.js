@@ -110,3 +110,17 @@
 
 //       arr.sort()
 //       console.log(arr)
+
+
+
+// let arr = [10,20,30,40,50]
+// console.log(arr.slice(1,3))
+
+
+// let a = [10,20,30,40,50,60,70]
+
+//       a.splice(4,2,100)
+//       console.log(a)
+
+
+
